@@ -1,6 +1,6 @@
 # Proyek Flutter dengan JSON Server
 
-Deskripsi singkat tentang proyek ini, misalnya "Ini adalah aplikasi berbasis Flutter yang terhubung dengan JSON Server sebagai backend untuk menyediakan API sementara."
+### Dibuat Oleh Syaid Afarishi 14-November-2024
 
 ## Deskripsi Proyek
 
@@ -9,8 +9,6 @@ Proyek ini bertujuan untuk mengintegrasikan frontend berbasis Flutter dengan bac
 ---
 
 ## Langkah-langkah Menjalankan Proyek
-
-### 1. Menjalankan JSON Server
 
 JSON Server digunakan untuk menyediakan API sementara untuk aplikasi ini. Berikut adalah langkah-langkah untuk menjalankan JSON Server:
 
