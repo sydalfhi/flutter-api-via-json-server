@@ -1,0 +1,33 @@
+# Flutter/Dart/Pub related
+node_modules/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+
+# IntelliJ related
+.idea/
+
+# VSCode related
+.vscode/
+
+# macOS related
+.DS_Store
+
+# Android related
+local.properties
+
+# iOS related
+Pods/
+DerivedData/
+*.xcuserstate
+
+# Coverage
+coverage/
+
+# Android Studio
+.idea/
+*.iml
